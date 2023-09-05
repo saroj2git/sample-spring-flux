@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "weatherapi.apikey",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherapi.apikey'"
+  },
+  {
+    "name": "target.output.location",
+    "type": "java.lang.String",
+    "description": "A description for 'target.output.location'"
+  },
+  {
+    "name": "country.state.city.baseurl",
+    "type": "java.lang.String",
+    "description": "A description for 'country.state.city.baseurl'"
+  },
+  {
+    "name": "weatherapi.baseurl.realtime",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherapi.baseurl.realtime'"
+  },
+  {
+    "name": "weatherapi.baseurl.forecast",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherapi.baseurl.forecast'"
+  },
+  {
+    "name": "weatherapi.baseurl.astronomy",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherapi.baseurl.astronomy'"
+  }
+]}
