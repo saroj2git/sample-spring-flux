@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SampleSpringFluxApplication<sample-spring-flux>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.learning.springboot.samplespringflux.SampleSpringFluxApplication",
+            "projectName": "sample-spring-flux",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
